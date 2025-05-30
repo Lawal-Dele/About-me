@@ -18,15 +18,15 @@ More projects coming soon — including sales dashboards, Excel KPIs, and SQL an
 ## 🛠️ Tools & Skills
 
 - **Languages:** SQL, DAX, HTML
-- **Tools:** Power BI, Microsoft Excel, Tableau
+- **Tools:** Power BI, Microsoft Excel, Tableau, Power Query
 - **Skills:** Data Cleaning, Pivot Tables, Dashboard Design, Business Intelligence, Data Visualization
 
 ---
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/ayodelelawal01)
-- [Email](mailto:ayodelelawal01@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lawalayodele16)
+- [Email](mailto:lawalayodele16@gmail.com)
 
 ---
 
