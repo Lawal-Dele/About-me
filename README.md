@@ -17,7 +17,7 @@ More projects coming soon — including sales dashboards, Excel KPIs, and SQL an
 
 ## 🛠️ Tools & Skills
 
-- **Languages:** SQL, DAX, HTML
+- **Languages:** SQL, DAX, HTML, PYTHON 
 - **Tools:** Power BI, Microsoft Excel, Tableau, Power Query
 - **Skills:** Data Cleaning, Pivot Tables, Dashboard Design, Business Intelligence, Data Visualization
 
